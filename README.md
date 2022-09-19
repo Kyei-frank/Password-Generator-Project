@@ -1,5 +1,5 @@
 # Password-Generator-Project
-In this project, I build a password generator that asks the user to enter the following data: 
+In this project, I built a password generator that asks the user to enter the following data: 
 
 - How many letters would you like in your password? 
 
