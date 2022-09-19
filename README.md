@@ -20,3 +20,6 @@ Below is an example execution of the program:
 > How many digits would you like in your password? 3 
 
 > This is your password: s2u$jG#n7f!he^Y4P( 
+
+
+### Author: FK Baffour
